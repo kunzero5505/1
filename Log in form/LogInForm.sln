@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpUserServer", "D:\Log-In-Form-By-Using-WIndow-Form-and-C--main--02\Log-In-Form-By-Using-WIndow-Form-and-C--main\Log in form\TcpUserServer\TcpUserServer.csproj", "{6156886E-CEAC-7DF2-8B49-C6E298F1A2FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpUserClient", "D:\Log-In-Form-By-Using-WIndow-Form-and-C--main--02\Log-In-Form-By-Using-WIndow-Form-and-C--main\Log in form\TcpUserClient\TcpUserClient.csproj", "{E18618C0-AA35-2C07-B5A2-86711F57DB35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6156886E-CEAC-7DF2-8B49-C6E298F1A2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6156886E-CEAC-7DF2-8B49-C6E298F1A2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6156886E-CEAC-7DF2-8B49-C6E298F1A2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6156886E-CEAC-7DF2-8B49-C6E298F1A2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18618C0-AA35-2C07-B5A2-86711F57DB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18618C0-AA35-2C07-B5A2-86711F57DB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18618C0-AA35-2C07-B5A2-86711F57DB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18618C0-AA35-2C07-B5A2-86711F57DB35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB80903-9F4E-437A-9771-778507729ACC}
+	EndGlobalSection
+EndGlobal
