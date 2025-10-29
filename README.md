@@ -165,3 +165,8 @@ ____________________________________
  Connection string config
  Documentation đầy đủ
 
+# Cách chạy chương trình
+1. Mở file **LogInForm.sln** bằng Visual Studio.
+2. Chạy **TcpUserServer** trước để khởi động server.
+3. Sau đó chạy **TcpUserClient** và kết nối đến server.
+4. Đăng nhập bằng tài khoản trong database hoặc đăng ký tài khoản mới.
